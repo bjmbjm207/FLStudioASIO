@@ -1,5 +1,6 @@
 # FLStudioASIO
 Install newest version FL Studio ASIO without FL Studio.
+Hiện đang là version 1.05 mới nhất đến từ Image-Line nha cả nhà.
 
 1. Giải nén tệp tin ra các file.
 2. Copy toàn bộ vào System32.
